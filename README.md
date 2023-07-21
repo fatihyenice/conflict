@@ -1,5 +1,4 @@
 # Git Conflict
 
 Lorem Ipsum
-
-Foo bar baz
+Git c'est super !
